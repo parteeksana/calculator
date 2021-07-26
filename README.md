@@ -1,5 +1,5 @@
 # Calculator
-- Click here to visit
+- Click [here](https://parteeksana.github.io/calculator/) to visit
 - Calculator app built with Html, Css &amp; Javascript. Feel free to check out the app and don't forget to star the repo.⭐
 
 # Functionality
